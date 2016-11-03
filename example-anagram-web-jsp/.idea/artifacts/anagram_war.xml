@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="anagram:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="anagram.war">
-      <element id="artifact" artifact-name="anagram:war exploded" />
-    </root>
-  </artifact>
-</component>
